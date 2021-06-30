@@ -4,7 +4,7 @@ June 29, 2021
 
 ## Purpose and scope
 
-Nephros and we wish to use cloud services for various tasks, including computation, raw data storage, and result storage. In this guide, we'll describe how to
+We wish to use cloud services for various tasks, including computation, raw data storage, and result storage. In this guide, we'll describe how to
 
 - Upload folders of data to S3 buckets via the web
 - Create an EC2 compute instance
